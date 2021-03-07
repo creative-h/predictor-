@@ -1,0 +1,8 @@
+scipy
+setuptools-git==1.2
+SQLAlchemy==1.3.18
+tensorboard
+tensorboard-plugin-wit==1.7.0
+tensorflow
+tensorflow-estimator
+urllib3==1.25.10
